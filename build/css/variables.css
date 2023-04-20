@@ -1,22 +1,22 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 20:13:28 GMT
+ * Generated on Thu, 20 Apr 2023 20:53:52 GMT
  */
 
 :root {
   --button-primary-background: #5a67d8;
   --button-primary-text: #ffffff;
-  --button-border-radius: 8px;
+  --button-border-radius: 16px;
   --button-border-width: 8px;
   --card-border-radius: 8px;
   --card-background: #1a202c;
   --card-padding: 16px;
-  --box-shadow-default: 5px 5px 5px 3px rgba(rgba(0, 0, 0, 0.3), 0.15), inset 4px 4px 5px 6px #00000033;
-  --typography-h1-bold: 700 48.829px/1.1 Inter;
-  --typography-h1-regular: 400 48.829px/1.1 Inter;
-  --typography-h2-bold: 700 39.063px/1.1 Inter;
-  --typography-h2-regular: 400 39.063px/1.1 Inter;
-  --typography-body: 400 16px/1.1 Roboto;
+  --box-shadow-default: 5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033;
+  --typography-h1-bold: 700 48.829px/110% Inter;
+  --typography-h1-regular: 400 48.829px/110% Inter;
+  --typography-h2-bold: 700 39.063px/110% Inter;
+  --typography-h2-regular: 400 39.063px/110% Inter;
+  --typography-body: 400 16px/110% Roboto;
   --fg-default: #ffffff;
   --fg-muted: #e2e8f0;
   --fg-subtle: #a0aec0;
@@ -26,7 +26,7 @@
   --accent-default: #5a67d8;
   --accent-on-accent: #ffffff;
   --accent-bg: #434190;
-  --shadows-default: rgba(0, 0, 0, 0.3);
+  --shadows-default: #0000004d;
   --dimension-scale: 2px;
   --dimension-xs: 4px;
   --dimension-sm: 8px;
@@ -38,11 +38,11 @@
   --spacing-md: 16px;
   --spacing-lg: 32px;
   --spacing-xl: 64px;
-  --spacing-multi-value: 8px 64px; /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
+  --spacing-multi-value: 8 64; /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
   --border-radius-sm: 4px;
   --border-radius-lg: 8px;
   --border-radius-xl: 16px;
-  --border-radius-multi-value: 4px 8px; /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
+  --border-radius-multi-value: 4 8; /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
   --colors-black: #000000;
   --colors-white: #ffffff;
   --colors-gray-100: #f7fafc;

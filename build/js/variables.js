@@ -1,21 +1,21 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 20:13:28 GMT
+ * Generated on Thu, 20 Apr 2023 20:53:52 GMT
  */
 
 export const buttonPrimaryBackground = "#5a67d8";
 export const buttonPrimaryText = "#ffffff";
-export const buttonBorderRadius = "8px";
+export const buttonBorderRadius = "16px";
 export const buttonBorderWidth = "8px";
 export const cardBorderRadius = "8px";
 export const cardBackground = "#1a202c";
 export const cardPadding = "16px";
-export const boxShadowDefault = "5px 5px 5px 3px rgba(rgba(0, 0, 0, 0.3), 0.15), inset 4px 4px 5px 6px #00000033";
-export const typographyH1Bold = "700 48.829px/1.1 Inter";
-export const typographyH1Regular = "400 48.829px/1.1 Inter";
-export const typographyH2Bold = "700 39.063px/1.1 Inter";
-export const typographyH2Regular = "400 39.063px/1.1 Inter";
-export const typographyBody = "400 16px/1.1 Roboto";
+export const boxShadowDefault = "5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033";
+export const typographyH1Bold = "700 48.829px/110% Inter";
+export const typographyH1Regular = "400 48.829px/110% Inter";
+export const typographyH2Bold = "700 39.063px/110% Inter";
+export const typographyH2Regular = "400 39.063px/110% Inter";
+export const typographyBody = "400 16px/110% Roboto";
 export const fgDefault = "#ffffff";
 export const fgMuted = "#e2e8f0";
 export const fgSubtle = "#a0aec0";
@@ -25,7 +25,7 @@ export const bgSubtle = "#718096";
 export const accentDefault = "#5a67d8";
 export const accentOnAccent = "#ffffff";
 export const accentBg = "#434190";
-export const shadowsDefault = "rgba(0, 0, 0, 0.3)";
+export const shadowsDefault = "#0000004d";
 export const dimensionScale = "2px";
 export const dimensionXs = "4px";
 export const dimensionSm = "8px";
@@ -37,11 +37,11 @@ export const spacingSm = "8px";
 export const spacingMd = "16px";
 export const spacingLg = "32px";
 export const spacingXl = "64px";
-export const spacingMultiValue = "8px 64px"; // You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens
+export const spacingMultiValue = "8 64"; // You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens
 export const borderRadiusSm = "4px";
 export const borderRadiusLg = "8px";
 export const borderRadiusXl = "16px";
-export const borderRadiusMultiValue = "4px 8px"; // You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values
+export const borderRadiusMultiValue = "4 8"; // You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values
 export const colorsBlack = "#000000";
 export const colorsWhite = "#ffffff";
 export const colorsGray100 = "#f7fafc";
