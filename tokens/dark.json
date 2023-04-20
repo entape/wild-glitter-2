@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "background": {
-        "value": "#38a169",
+        "value": "#3182ce",
         "type": "color"
       },
       "text": {
@@ -146,7 +146,7 @@
   },
   "accent": {
     "default": {
-      "value": "#38a169",
+      "value": "#3182ce",
       "type": "color"
     },
     "onAccent": {
@@ -154,7 +154,7 @@
       "type": "color"
     },
     "bg": {
-      "value": "#276749",
+      "value": "#2c5282",
       "type": "color"
     }
   },
