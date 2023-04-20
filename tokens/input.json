@@ -690,7 +690,7 @@
         }
       },
       "borderRadius": {
-        "value": "{borderRadius.lg}",
+        "value": "{borderRadius.xl}",
         "type": "borderRadius"
       },
       "borderWidth": {
@@ -798,6 +798,11 @@
   },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": ["core", "light", "dark", "theme"]
+    "tokenSetOrder": [
+      "core",
+      "light",
+      "dark",
+      "theme"
+    ]
   }
 }
