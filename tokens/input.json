@@ -658,7 +658,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.green.600}",
+        "value": "{colors.blue.600}",
         "type": "color"
       },
       "onAccent": {
@@ -666,7 +666,7 @@
         "type": "color"
       },
       "bg": {
-        "value": "{colors.green.800}",
+        "value": "{colors.blue.800}",
         "type": "color"
       }
     },
