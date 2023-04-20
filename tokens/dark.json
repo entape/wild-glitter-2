@@ -1,0 +1,167 @@
+{
+  "button": {
+    "primary": {
+      "background": {
+        "value": "#38a169",
+        "type": "color"
+      },
+      "text": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "borderRadius": {
+      "value": 16,
+      "type": "borderRadius"
+    },
+    "borderWidth": {
+      "value": 8,
+      "type": "borderWidth"
+    }
+  },
+  "card": {
+    "borderRadius": {
+      "value": 8,
+      "type": "borderRadius"
+    },
+    "background": {
+      "value": "#1a202c",
+      "type": "color"
+    },
+    "padding": {
+      "value": 16,
+      "type": "dimension"
+    }
+  },
+  "boxShadow": {
+    "default": {
+      "value": [
+        {
+          "x": 5,
+          "y": 5,
+          "spread": 3,
+          "color": "#00000026",
+          "blur": 5,
+          "type": "dropShadow"
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "spread": 6,
+          "color": "#00000033",
+          "blur": 5,
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
+  },
+  "typography": {
+    "H1": {
+      "Bold": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": "110%",
+          "fontSize": 48.829,
+          "paragraphSpacing": 32,
+          "letterSpacing": "-5%"
+        }
+      },
+      "Regular": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": "110%",
+          "fontSize": 48.829,
+          "paragraphSpacing": 32,
+          "letterSpacing": "-5%"
+        }
+      }
+    },
+    "H2": {
+      "Bold": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Bold",
+          "lineHeight": "110%",
+          "fontSize": 39.063,
+          "paragraphSpacing": 26,
+          "letterSpacing": "-5%"
+        }
+      },
+      "Regular": {
+        "type": "typography",
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": "110%",
+          "fontSize": 39.063,
+          "paragraphSpacing": 26,
+          "letterSpacing": "-5%"
+        }
+      }
+    },
+    "Body": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "Roboto",
+        "fontWeight": "Regular",
+        "lineHeight": "110%",
+        "fontSize": 16,
+        "paragraphSpacing": 26
+      }
+    }
+  },
+  "fg": {
+    "default": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#e2e8f0",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#a0aec0",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "default": {
+      "value": "#1a202c",
+      "type": "color"
+    },
+    "muted": {
+      "value": "#4a5568",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "#718096",
+      "type": "color"
+    }
+  },
+  "accent": {
+    "default": {
+      "value": "#38a169",
+      "type": "color"
+    },
+    "onAccent": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "bg": {
+      "value": "#276749",
+      "type": "color"
+    }
+  },
+  "shadows": {
+    "default": {
+      "value": "#0000004d",
+      "type": "color"
+    }
+  }
+}

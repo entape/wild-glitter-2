@@ -1,32 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 21:10:02 GMT
+ * Generated on Thu, 20 Apr 2023 21:42:02 GMT
  */
 
 :root {
-  --button-primary-background: #38a169;
-  --button-primary-text: #ffffff;
-  --button-border-radius: 16px;
-  --button-border-width: 8px;
-  --card-border-radius: 8px;
-  --card-background: #1a202c;
-  --card-padding: 16px;
-  --box-shadow-default: 5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033;
-  --typography-h1-bold: 700 48.829px/110% Inter;
-  --typography-h1-regular: 400 48.829px/110% Inter;
-  --typography-h2-bold: 700 39.063px/110% Inter;
-  --typography-h2-regular: 400 39.063px/110% Inter;
-  --typography-body: 400 16px/110% Roboto;
-  --fg-default: #ffffff;
-  --fg-muted: #e2e8f0;
-  --fg-subtle: #a0aec0;
-  --bg-default: #1a202c;
-  --bg-muted: #4a5568;
-  --bg-subtle: #718096;
-  --accent-default: #38a169;
-  --accent-on-accent: #ffffff;
-  --accent-bg: #276749;
-  --shadows-default: #0000004d;
   --dimension-scale: 2px;
   --dimension-xs: 4px;
   --dimension-sm: 8px;
@@ -160,8 +137,27 @@
   --font-sizes-body: 16px;
   --font-sizes-sm: 13.6px;
   --font-sizes-xs: 10.4px;
-  --token-set-order-0: core;
-  --token-set-order-1: light;
-  --token-set-order-2: dark;
-  --token-set-order-3: theme;
+  --button-primary-background: #38a169;
+  --button-primary-text: #ffffff;
+  --button-border-radius: 16px;
+  --button-border-width: 8px;
+  --card-border-radius: 8px;
+  --card-background: #1a202c;
+  --card-padding: 16px;
+  --box-shadow-default: 5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033;
+  --typography-h1-bold: 700 48.829px/110% Inter;
+  --typography-h1-regular: 400 48.829px/110% Inter;
+  --typography-h2-bold: 700 39.063px/110% Inter;
+  --typography-h2-regular: 400 39.063px/110% Inter;
+  --typography-body: 400 16px/110% Roboto;
+  --fg-default: #ffffff;
+  --fg-muted: #e2e8f0;
+  --fg-subtle: #a0aec0;
+  --bg-default: #1a202c;
+  --bg-muted: #4a5568;
+  --bg-subtle: #718096;
+  --accent-default: #38a169;
+  --accent-on-accent: #ffffff;
+  --accent-bg: #276749;
+  --shadows-default: #0000004d;
 }
