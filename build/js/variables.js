@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 20:55:28 GMT
+ * Generated on Thu, 20 Apr 2023 21:00:47 GMT
  */
 
-export const buttonPrimaryBackground = "#434190";
+export const buttonPrimaryBackground = "#5a67d8";
 export const buttonPrimaryText = "#ffffff";
 export const buttonBorderRadius = "16px";
 export const buttonBorderWidth = "8px";
