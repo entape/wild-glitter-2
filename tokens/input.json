@@ -608,7 +608,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.indigo.400}",
+        "value": "{colors.red.400}",
         "type": "color"
       },
       "onAccent": {
@@ -681,7 +681,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "{accent.bg}",
+          "value": "{accent.default}",
           "type": "color"
         },
         "text": {
