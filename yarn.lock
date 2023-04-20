@@ -390,22 +390,16 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@tokens-studio/sd-transforms@^0.8.3":
-  version "0.8.3"
-  resolved "https://registry.yarnpkg.com/@tokens-studio/sd-transforms/-/sd-transforms-0.8.3.tgz#694f2808f432954d298ab2f349677fb1c865ba9b"
-  integrity sha512-zhsJ8lSrnCYlH83OSUgS4MPKIBxAml7OgMdrXKRdi3YN3egrJsfGs42rLRcPm4XaEjyrapXtQTONF/g3Z3NYvw==
+"@tokens-studio/sd-transforms@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@tokens-studio/sd-transforms/-/sd-transforms-0.6.0.tgz#99a449c0bd4c35666a50141422baaad6ab309de0"
+  integrity sha512-PXSVj38UAwJzeuQVxNuxnKns8LAJcKekCrNLMzmqhKHicKbvA8flH2658wxVC3O1Gv6cFTu2Z0QL8AOoJ+0rTg==
   dependencies:
-    "@tokens-studio/types" "^0.2.1"
     color2k "^2.0.1"
     colorjs.io "^0.4.3"
     expr-eval "^2.0.2"
     postcss-calc-ast-parser "^0.1.4"
     style-dictionary "^3.7.2"
-
-"@tokens-studio/types@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@tokens-studio/types/-/types-0.2.1.tgz#f901749c29fab5f8244c9c4483735d8fbf17e6d8"
-  integrity sha512-yuSgYbKM7yU/r3Dx5UqG2s/L31ZNA/o232Gk7ayQpcSDHAIrVAoR4rYV3XMKNbuLv9xHjrFa7OnqEjAghFgqWQ==
 
 "@types/prop-types@*":
   version "15.7.5"
