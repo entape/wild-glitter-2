@@ -1,10 +1,10 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 21:00:47 GMT
+ * Generated on Thu, 20 Apr 2023 21:10:02 GMT
  */
 
 :root {
-  --button-primary-background: #5a67d8;
+  --button-primary-background: #38a169;
   --button-primary-text: #ffffff;
   --button-border-radius: 16px;
   --button-border-width: 8px;
@@ -23,9 +23,9 @@
   --bg-default: #1a202c;
   --bg-muted: #4a5568;
   --bg-subtle: #718096;
-  --accent-default: #5a67d8;
+  --accent-default: #38a169;
   --accent-on-accent: #ffffff;
-  --accent-bg: #434190;
+  --accent-bg: #276749;
   --shadows-default: #0000004d;
   --dimension-scale: 2px;
   --dimension-xs: 4px;

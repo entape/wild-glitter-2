@@ -1,9 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Apr 2023 21:00:47 GMT
+ * Generated on Thu, 20 Apr 2023 21:10:02 GMT
  */
 
-export const buttonPrimaryBackground = "#5a67d8";
+export const buttonPrimaryBackground = "#38a169";
 export const buttonPrimaryText = "#ffffff";
 export const buttonBorderRadius = "16px";
 export const buttonBorderWidth = "8px";
@@ -22,9 +22,9 @@ export const fgSubtle = "#a0aec0";
 export const bgDefault = "#1a202c";
 export const bgMuted = "#4a5568";
 export const bgSubtle = "#718096";
-export const accentDefault = "#5a67d8";
+export const accentDefault = "#38a169";
 export const accentOnAccent = "#ffffff";
-export const accentBg = "#434190";
+export const accentBg = "#276749";
 export const shadowsDefault = "#0000004d";
 export const dimensionScale = "2px";
 export const dimensionXs = "4px";
