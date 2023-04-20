@@ -4,7 +4,7 @@ import StyleDictionary from "style-dictionary";
 registerTransforms(StyleDictionary);
 
 const sd = StyleDictionary.extend({
-  source: ["tokens/output.json"],
+  source: ["tokens/core.json", "tokens/light.json", "tokens/dark.json"],
   platforms: {
     js: {
       transformGroup: "tokens-studio",
