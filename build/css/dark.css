@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 06:40:56 GMT
+ * Generated on Fri, 21 Apr 2023 08:05:53 GMT
  */
 
 :root {
@@ -8,7 +8,7 @@
   --dark-button-primary-text: #ffffff;
   --dark-button-border-radius: 16px;
   --dark-button-border-width: 8px;
-  --dark-card-border-radius: 8px;
+  --dark-card-border-radius: 16px;
   --dark-card-background: #1a202c;
   --dark-card-padding: 16px;
   --dark-box-shadow-default: 5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033;
