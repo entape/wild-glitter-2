@@ -1,11 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 08:49:57 GMT
+ * Generated on Fri, 21 Apr 2023 09:21:43 GMT
  */
 
 :root {
   --light-button-primary-background: #e53e3e;
   --light-button-primary-text: #ffffff;
+  --light-button-primary-hover: #9b2c2c;
   --light-button-border-radius: 8px;
   --light-button-border-width: 8px;
   --light-card-border-radius: 16px;
