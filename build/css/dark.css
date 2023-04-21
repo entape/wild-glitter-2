@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 09:55:37 GMT
+ * Generated on Fri, 21 Apr 2023 10:02:05 GMT
  */
 
 :root {
-  --dark-button-primary-background: #3182ce;
+  --dark-button-primary-background: #38a169;
   --dark-button-primary-text: #ffffff;
-  --dark-button-primary-hover: #2c5282;
+  --dark-button-primary-hover: #276749;
   --dark-button-border-radius: 8px;
   --dark-button-border-width: 8px;
   --dark-card-border-radius: 16px;
@@ -24,8 +24,8 @@
   --dark-bg-default: #1a202c;
   --dark-bg-muted: #4a5568;
   --dark-bg-subtle: #718096;
-  --dark-accent-default: #3182ce;
+  --dark-accent-default: #38a169;
   --dark-accent-on-accent: #ffffff;
-  --dark-accent-bg: #2c5282;
+  --dark-accent-bg: #276749;
   --dark-shadows-default: #0000004d;
 }
