@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 08:30:45 GMT
+ * Generated on Fri, 21 Apr 2023 08:32:30 GMT
  */
 
 :root {
   --dark-button-primary-background: #3182ce;
   --dark-button-primary-text: #ffffff;
-  --dark-button-border-radius: 16px;
+  --dark-button-border-radius: 4px;
   --dark-button-border-width: 8px;
   --dark-card-border-radius: 16px;
   --dark-card-background: #1a202c;

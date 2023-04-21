@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 08:30:45 GMT
+ * Generated on Fri, 21 Apr 2023 08:32:30 GMT
  */
 
 export const buttonPrimaryBackground = "#e53e3e";
 export const buttonPrimaryText = "#ffffff";
-export const buttonBorderRadius = "16px";
+export const buttonBorderRadius = "4px";
 export const buttonBorderWidth = "8px";
 export const cardBorderRadius = "16px";
 export const cardBackground = "#ffffff";
