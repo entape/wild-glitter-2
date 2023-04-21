@@ -1,4 +1,5 @@
-@import "/build/css/variables.css";
+@import "/build/css/light.css";
+@import "/build/css/dark.css";
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
@@ -46,7 +47,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: var(--button-primary-background);
+  background-color: var(--dark-button-primary-background);
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -67,6 +68,6 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: var(--button-primary-background);
+    background-color: var(--light-button-primary-background);
   }
 }

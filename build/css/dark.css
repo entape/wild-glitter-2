@@ -1,0 +1,30 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 21 Apr 2023 06:31:02 GMT
+ */
+
+:root {
+  --dark-button-primary-background: #3182ce;
+  --dark-button-primary-text: #ffffff;
+  --dark-button-border-radius: 16px;
+  --dark-button-border-width: 8px;
+  --dark-card-border-radius: 8px;
+  --dark-card-background: #1a202c;
+  --dark-card-padding: 16px;
+  --dark-box-shadow-default: 5px 5px 5px 3px #00000026, inset 4px 4px 5px 6px #00000033;
+  --dark-typography-h1-bold: 700 48.829px/110% Inter;
+  --dark-typography-h1-regular: 400 48.829px/110% Inter;
+  --dark-typography-h2-bold: 700 39.063px/110% Inter;
+  --dark-typography-h2-regular: 400 39.063px/110% Inter;
+  --dark-typography-body: 400 16px/110% Roboto;
+  --dark-fg-default: #ffffff;
+  --dark-fg-muted: #e2e8f0;
+  --dark-fg-subtle: #a0aec0;
+  --dark-bg-default: #1a202c;
+  --dark-bg-muted: #4a5568;
+  --dark-bg-subtle: #718096;
+  --dark-accent-default: #3182ce;
+  --dark-accent-on-accent: #ffffff;
+  --dark-accent-bg: #2c5282;
+  --dark-shadows-default: #0000004d;
+}

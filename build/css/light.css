@@ -1,0 +1,30 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 21 Apr 2023 06:31:02 GMT
+ */
+
+:root {
+  --light-button-primary-background: #e53e3e;
+  --light-button-primary-text: #ffffff;
+  --light-button-border-radius: 16px;
+  --light-button-border-width: 8px;
+  --light-card-border-radius: 8px;
+  --light-card-background: #ffffff;
+  --light-card-padding: 16px;
+  --light-box-shadow-default: 5px 5px 5px 3px #1a202c26, inset 4px 4px 5px 6px #00000033;
+  --light-typography-h1-bold: 700 48.829px/110% Inter;
+  --light-typography-h1-regular: 400 48.829px/110% Inter;
+  --light-typography-h2-bold: 700 39.063px/110% Inter;
+  --light-typography-h2-regular: 400 39.063px/110% Inter;
+  --light-typography-body: 400 16px/110% Roboto;
+  --light-fg-default: #000000;
+  --light-fg-muted: #4a5568;
+  --light-fg-subtle: #a0aec0;
+  --light-bg-default: #ffffff;
+  --light-bg-muted: #f7fafc;
+  --light-bg-subtle: #edf2f7;
+  --light-accent-default: #e53e3e;
+  --light-accent-on-accent: #ffffff;
+  --light-accent-bg: #9b2c2c;
+  --light-shadows-default: #1a202c;
+}
