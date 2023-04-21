@@ -10,6 +10,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-smooth: never;
+  transition: background-color 300ms;
 }
 .dark {
   background-color: var(--dark-card-background);
@@ -22,18 +23,19 @@ button {
   border-radius: var(--dark-button-border-radius);
   border: none;
   font: var(--dark-typography-body);
+  transition: background-color 300ms;
 }
 .dark button {
   color: var(--dark-button-primary-text);
   background-color: var(--dark-button-primary-background);
 }
-.dark button:active {
-  background-color: var(--dark-accent-bg);
+.dark button:hover {
+  background-color: var(--dark-button-primary-hover);
 }
 .light button {
   color: var(--light-button-primary-text);
   background-color: var(--light-button-primary-background);
 }
-.light button:active {
-  background-color: var(--light-accent-bg);
+.light button:hover {
+  background-color: var(--light-button-primary-hover);
 }
