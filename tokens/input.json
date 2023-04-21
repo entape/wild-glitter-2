@@ -690,7 +690,7 @@
         }
       },
       "borderRadius": {
-        "value": "{borderRadius.xl}",
+        "value": "{borderRadius.sm}",
         "type": "borderRadius"
       },
       "borderWidth": {
