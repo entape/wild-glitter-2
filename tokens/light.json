@@ -8,6 +8,10 @@
       "text": {
         "value": "#ffffff",
         "type": "color"
+      },
+      "hover": {
+        "value": "#9b2c2c",
+        "type": "color"
       }
     },
     "borderRadius": {
