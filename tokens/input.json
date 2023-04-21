@@ -700,7 +700,7 @@
     },
     "card": {
       "borderRadius": {
-        "value": "{borderRadius.lg}",
+        "value": "{borderRadius.xl}",
         "type": "borderRadius"
       },
       "background": {
