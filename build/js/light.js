@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 21 Apr 2023 06:31:02 GMT
+ * Generated on Fri, 21 Apr 2023 06:40:56 GMT
  */
 
 export const buttonPrimaryBackground = "#e53e3e";
