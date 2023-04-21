@@ -687,6 +687,10 @@
         "text": {
           "value": "{accent.onAccent}",
           "type": "color"
+        },
+        "hover": {
+          "value": "{accent.bg}",
+          "type": "color"
         }
       },
       "borderRadius": {
