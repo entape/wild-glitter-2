@@ -9,10 +9,10 @@
   align-items: center;
 }
 .dark {
-  background-color: var(--dark-bg-default);
+  background-color: var(--dark-card-background);
 }
 .light {
-  background-color: var(--light-bg-default);
+  background-color: var(--light-card-background);
 }
 button {
   padding: var(--core-dimension-sm) var(--core-dimension-md);
