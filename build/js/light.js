@@ -1,11 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 Apr 2023 13:27:58 GMT
+ * Generated on Thu, 27 Apr 2023 13:30:51 GMT
  */
 
-export const buttonPrimaryBackground = "#3182ce";
+export const buttonPrimaryBackground = "#dd6b20";
 export const buttonPrimaryText = "#ffffff";
-export const buttonPrimaryHover = "#2b6cb0";
+export const buttonPrimaryHover = "#c05621";
 export const buttonBorderRadius = "8px";
 export const buttonBorderWidth = "8px";
 export const cardBorderRadius = "16px";
@@ -23,7 +23,7 @@ export const fgSubtle = "#a0aec0";
 export const bgDefault = "#ffffff";
 export const bgMuted = "#f7fafc";
 export const bgSubtle = "#edf2f7";
-export const accentDefault = "#3182ce";
+export const accentDefault = "#dd6b20";
 export const accentOnAccent = "#ffffff";
-export const accentBg = "#2b6cb0";
+export const accentBg = "#c05621";
 export const shadowsDefault = "#1a202c";
