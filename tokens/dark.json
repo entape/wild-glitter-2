@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "background": {
-        "value": "#f6ad55",
+        "value": "#fc8181",
         "type": "color"
       },
       "text": {
@@ -10,7 +10,7 @@
         "type": "color"
       },
       "hover": {
-        "value": "#fbd38d",
+        "value": "#feb2b2",
         "type": "color"
       }
     },
@@ -150,7 +150,7 @@
   },
   "accent": {
     "default": {
-      "value": "#f6ad55",
+      "value": "#fc8181",
       "type": "color"
     },
     "onAccent": {
@@ -158,7 +158,7 @@
       "type": "color"
     },
     "bg": {
-      "value": "#fbd38d",
+      "value": "#feb2b2",
       "type": "color"
     }
   },
