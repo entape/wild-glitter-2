@@ -608,7 +608,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.blue.600}",
+        "value": "{colors.orange.600}",
         "type": "color"
       },
       "onAccent": {
@@ -616,7 +616,7 @@
         "type": "color"
       },
       "bg": {
-        "value": "{colors.blue.700}",
+        "value": "{colors.orange.700}",
         "type": "color"
       }
     },
@@ -658,7 +658,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.blue.400}",
+        "value": "{colors.orange.400}",
         "type": "color"
       },
       "onAccent": {
@@ -666,7 +666,7 @@
         "type": "color"
       },
       "bg": {
-        "value": "{colors.blue.300}",
+        "value": "{colors.orange.300}",
         "type": "color"
       }
     },
