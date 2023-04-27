@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 Apr 2023 13:34:17 GMT
+ * Generated on Thu, 27 Apr 2023 14:52:06 GMT
  */
 
 :root {
-  --dark-button-primary-background: #fc8181;
+  --dark-button-primary-background: #63b3ed;
   --dark-button-primary-text: #1a202c;
-  --dark-button-primary-hover: #feb2b2;
+  --dark-button-primary-hover: #90cdf4;
   --dark-button-border-radius: 8px;
   --dark-button-border-width: 8px;
   --dark-card-border-radius: 16px;
@@ -24,8 +24,8 @@
   --dark-bg-default: #1a202c;
   --dark-bg-muted: #4a5568;
   --dark-bg-subtle: #718096;
-  --dark-accent-default: #fc8181;
+  --dark-accent-default: #63b3ed;
   --dark-accent-on-accent: #1a202c;
-  --dark-accent-bg: #feb2b2;
+  --dark-accent-bg: #90cdf4;
   --dark-shadows-default: #0000004d;
 }
