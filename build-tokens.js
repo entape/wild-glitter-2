@@ -10,7 +10,7 @@ StyleDictionary.registerTransform({
       "fontSizes",
       "dimension",
       "borderRadius",
-      "borderRadius",
+      "borderWidth",
       "spacing",
     ].includes(token.type),
   transformer: (token) => parseFloat(token.value) / 16 + "rem",
