@@ -19,6 +19,7 @@ function buildConfig(source) {
       },
       css: {
         transforms: [
+          "size/pxToRem",
           "size/rem",
           "ts/descriptionToComment",
           "ts/size/px",
@@ -32,7 +33,6 @@ function buildConfig(source) {
           "ts/color/css/hexrgba",
           "ts/color/modifiers",
           "name/cti/kebab",
-          "size/pxToRem",
         ],
         buildPath: "build/css/",
         prefix: source,
