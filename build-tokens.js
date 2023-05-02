@@ -20,6 +20,7 @@ function buildConfig(source) {
       css: {
         transforms: [
           "ts/descriptionToComment",
+          "size/rem",
           "ts/size/css/letterspacing",
           "ts/size/lineheight",
           "ts/type/fontWeight",
@@ -30,7 +31,6 @@ function buildConfig(source) {
           "ts/color/css/hexrgba",
           "ts/color/modifiers",
           "name/cti/kebab",
-          "size/rem",
         ],
         buildPath: "build/css/",
         prefix: source,
