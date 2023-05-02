@@ -1,25 +1,25 @@
 /**
  * Do not edit directly
- * Generated on Tue, 02 May 2023 11:52:00 GMT
+ * Generated on Tue, 02 May 2023 12:51:02 GMT
  */
 
 :root {
-  --core-dimension-scale: 2px;
-  --core-dimension-xs: 4px;
-  --core-dimension-sm: 8px;
-  --core-dimension-md: 16px;
-  --core-dimension-lg: 32px;
-  --core-dimension-xl: 64px;
-  --core-spacing-xs: 4px;
-  --core-spacing-sm: 8px;
-  --core-spacing-md: 16px;
-  --core-spacing-lg: 32px;
-  --core-spacing-xl: 64px;
-  --core-spacing-multi-value: 8 64; /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
-  --core-border-radius-sm: 4px;
-  --core-border-radius-lg: 8px;
-  --core-border-radius-xl: 16px;
-  --core-border-radius-multi-value: 4 8; /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
+  --core-dimension-scale: 0.125rem;
+  --core-dimension-xs: 0.25rem;
+  --core-dimension-sm: 0.5rem;
+  --core-dimension-md: 1rem;
+  --core-dimension-lg: 2rem;
+  --core-dimension-xl: 4rem;
+  --core-spacing-xs: 0.25rem;
+  --core-spacing-sm: 0.5rem;
+  --core-spacing-md: 1rem;
+  --core-spacing-lg: 2rem;
+  --core-spacing-xl: 4rem;
+  --core-spacing-multi-value: 0.5rem; /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
+  --core-border-radius-sm: 0.25rem;
+  --core-border-radius-lg: 0.5rem;
+  --core-border-radius-xl: 1rem;
+  --core-border-radius-multi-value: 0.25rem; /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
   --core-colors-black: #000000;
   --core-colors-white: #ffffff;
   --core-colors-gray-100: #f7fafc;
@@ -128,13 +128,13 @@
   --core-font-weights-heading-bold: 700;
   --core-font-weights-body-regular: 400;
   --core-font-weights-body-bold: 700;
-  --core-font-sizes-h1: 48.829px;
-  --core-font-sizes-h2: 39.063px;
-  --core-font-sizes-h3: 31.25px;
-  --core-font-sizes-h4: 25px;
-  --core-font-sizes-h5: 20px;
-  --core-font-sizes-h6: 16px;
-  --core-font-sizes-body: 16px;
-  --core-font-sizes-sm: 13.6px;
-  --core-font-sizes-xs: 10.4px;
+  --core-font-sizes-h1: 3.052rem;
+  --core-font-sizes-h2: 2.441rem;
+  --core-font-sizes-h3: 1.953rem;
+  --core-font-sizes-h4: 1.563rem;
+  --core-font-sizes-h5: 1.25rem;
+  --core-font-sizes-h6: 1rem;
+  --core-font-sizes-body: 1rem;
+  --core-font-sizes-sm: 0.85rem;
+  --core-font-sizes-xs: 0.65rem;
 }
