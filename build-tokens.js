@@ -19,6 +19,7 @@ function buildConfig(source) {
       },
       css: {
         transforms: [
+          "size/rem",
           "ts/descriptionToComment",
           "ts/size/px",
           "ts/size/css/letterspacing",
