@@ -6,7 +6,13 @@ StyleDictionary.registerTransform({
   type: "value",
   transitive: true,
   matcher: (token) =>
-    ["fontSizes", "dimension", "borderRadius", "spacing"].includes(token.type),
+    [
+      "fontSizes",
+      "dimension",
+      "borderRadius",
+      "borderRadius",
+      "spacing",
+    ].includes(token.type),
   transformer: (token) => parseFloat(token.value) / 16 + "rem",
 });
 
