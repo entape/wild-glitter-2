@@ -19,9 +19,8 @@ function buildConfig(source) {
       },
       css: {
         transforms: [
-          "size/pxToRem",
-          "size/rem",
           "ts/descriptionToComment",
+          "ts/size/px",
           "ts/size/css/letterspacing",
           "ts/size/lineheight",
           "ts/type/fontWeight",
