@@ -31,6 +31,7 @@ function buildConfig(source) {
           "ts/color/css/hexrgba",
           "ts/color/modifiers",
           "name/cti/kebab",
+          "size/rem",
         ],
         buildPath: "build/css/",
         prefix: source,
