@@ -20,7 +20,6 @@ function buildConfig(source) {
       css: {
         transforms: [
           "ts/descriptionToComment",
-          "ts/size/px",
           "ts/size/css/letterspacing",
           "ts/size/lineheight",
           "ts/type/fontWeight",
