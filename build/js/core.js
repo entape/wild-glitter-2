@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 02 May 2023 11:35:26 GMT
+ * Generated on Tue, 02 May 2023 11:45:07 GMT
  */
 
 export const dimensionScale = "2px";
