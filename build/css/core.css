@@ -1,24 +1,24 @@
 /**
  * Do not edit directly
- * Generated on Tue, 02 May 2023 11:27:20 GMT
+ * Generated on Tue, 02 May 2023 11:29:44 GMT
  */
 
 :root {
-  --core-dimension-scale: 2px;
-  --core-dimension-xs: 4px;
-  --core-dimension-sm: 8px;
-  --core-dimension-md: 16px;
-  --core-dimension-lg: 32px;
-  --core-dimension-xl: 64px;
-  --core-spacing-xs: 4px;
-  --core-spacing-sm: 8px;
-  --core-spacing-md: 16px;
-  --core-spacing-lg: 32px;
-  --core-spacing-xl: 64px;
+  --core-dimension-scale: 2;
+  --core-dimension-xs: 4;
+  --core-dimension-sm: 8;
+  --core-dimension-md: 16;
+  --core-dimension-lg: 32;
+  --core-dimension-xl: 64;
+  --core-spacing-xs: 4;
+  --core-spacing-sm: 8;
+  --core-spacing-md: 16;
+  --core-spacing-lg: 32;
+  --core-spacing-xl: 64;
   --core-spacing-multi-value: 8 64; /* You can have multiple values in a single spacing token. Read more on these: https://docs.tokens.studio/available-tokens/spacing-tokens#multi-value-spacing-tokens */
-  --core-border-radius-sm: 4px;
-  --core-border-radius-lg: 8px;
-  --core-border-radius-xl: 16px;
+  --core-border-radius-sm: 4;
+  --core-border-radius-lg: 8;
+  --core-border-radius-xl: 16;
   --core-border-radius-multi-value: 4 8; /* You can have multiple values in a single radius token. Read more on these: https://docs.tokens.studio/available-tokens/border-radius-tokens#single--multiple-values */
   --core-colors-black: #000000;
   --core-colors-white: #ffffff;
@@ -128,13 +128,13 @@
   --core-font-weights-heading-bold: 700;
   --core-font-weights-body-regular: 400;
   --core-font-weights-body-bold: 700;
-  --core-font-sizes-h1: 48.829px;
-  --core-font-sizes-h2: 39.063px;
-  --core-font-sizes-h3: 31.25px;
-  --core-font-sizes-h4: 25px;
-  --core-font-sizes-h5: 20px;
-  --core-font-sizes-h6: 16px;
-  --core-font-sizes-body: 16px;
-  --core-font-sizes-sm: 13.6px;
-  --core-font-sizes-xs: 10.4px;
+  --core-font-sizes-h1: 48.829;
+  --core-font-sizes-h2: 39.063;
+  --core-font-sizes-h3: 31.25;
+  --core-font-sizes-h4: 25;
+  --core-font-sizes-h5: 20;
+  --core-font-sizes-h6: 16;
+  --core-font-sizes-body: 16;
+  --core-font-sizes-sm: 13.6;
+  --core-font-sizes-xs: 10.4;
 }
