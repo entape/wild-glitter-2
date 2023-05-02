@@ -1,6 +1,15 @@
 import { registerTransforms } from "@tokens-studio/sd-transforms";
 import StyleDictionary from "style-dictionary";
 
+StyleDictionary.registerTransform({
+  name: "my/size/rem",
+  type: "value",
+  transitive: true,
+  matcher: (token) =>
+    ["fontSizes", "dimension", "borderRadius", "spacing"].includes(token.type),
+  transformer: (token) => parseFloat(token.value) / 16 + "rem",
+});
+
 registerTransforms(StyleDictionary);
 
 function buildConfig(source) {
@@ -20,6 +29,7 @@ function buildConfig(source) {
       css: {
         transforms: [
           "ts/descriptionToComment",
+          "my/size/rem",
           "ts/size/px",
           "ts/size/css/letterspacing",
           "ts/size/lineheight",
